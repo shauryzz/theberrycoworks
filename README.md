@@ -1,5 +1,7 @@
 # The Berry Coworks — Website
 
+<img width="1895" height="916" alt="image" src="https://github.com/user-attachments/assets/03fba91a-19c6-479b-a341-a806e99f1eec" />
+
 A multi-page coworking and managed-office website for The Berry Coworks, built with Next.js and React. The site helps individuals, teams and businesses discover workspaces across Delhi NCR, explore membership options and connect with the booking and enquiry channels.
 
 **Website:** [theberrycoworks.com](https://theberrycoworks.com)
